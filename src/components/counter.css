@@ -1,0 +1,36 @@
+.stepper{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+
+.decrease{
+    background-color: greenyellow;
+    width: 75px;
+    height: 75px;
+    border: 2px solid gray;
+
+}
+
+.increase{
+    background-color: greenyellow;
+    width: 75px;
+    height: 75px;
+    border: 2px solid gray;
+}
+
+.count{
+    
+    width: 70px;
+    
+    padding: 11.5px;
+    text-align: center;
+    margin: 5px;
+    border: 1px solid gray;
+    
+}
+
+.count p{
+    
+}
+
